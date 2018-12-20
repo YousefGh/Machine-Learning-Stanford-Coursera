@@ -19,3 +19,6 @@ This course was taught by Andrew NG, it goes over the math behind each algorithm
   * Learning Curves
   * Error Analysis 
   * Ceiling Analysis 
+
+# Certificate
+[Machine Learning Course Certificate](https://www.coursera.org/account/accomplishments/certificate/T5AS9F9X2E6G)
