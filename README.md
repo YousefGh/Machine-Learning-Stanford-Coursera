@@ -1,5 +1,7 @@
 # Machine-Learning-Stanford-Coursera
-This course was taught by Andrew NG, it goes over the math behind each algorithm and explains it very thoroughly, then an assignment that tests your understanding should be submitted and graded.
+This course was taught by Andrew NG, it goes over the math behind each algorithm and explains it very thoroughly, then an assignment that tests your understanding and implementation using Matlab should be submitted and graded. <br/><br/>
+
+Matlab was used to make it more of a low-level implementation instead of using libraries.
 
 # Main Topics Covered: 
 * Supervised Learning
